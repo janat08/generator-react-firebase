@@ -1,0 +1,27 @@
+{
+  "generator-react-firebase": {
+    "promptValues": {
+      "githubUser": "janat08",
+      "includeRedux": false,
+      "includeFirestore": true,
+      "otherFeatures": [
+        "Continuous Integration config",
+        "Firebase Cloud Messaging",
+        "Firebase Functions (with ESNext support)",
+        "Tests for Firebase Functions (Mocha/Chai or Jest)",
+        "Firebase Analytics",
+        "Error Tracking (Sentry.io)",
+        "Client Side Error Reporting (Stackdriver)"
+      ],
+      "functionsTestTool": "jest",
+      "typescriptCloudFunctions": true,
+      "firebaseKey": "1234567890test1234567890replaceme",
+      "firebaseProjectId": "dsf",
+      "messagingSenderId": "sdf",
+      "appId": "sdf",
+      "measurementId": "sdf",
+      "firebasePublicVapidKey": "sdf",
+      "ciProvider": "githubActions"
+    }
+  }
+}
